@@ -1,4 +1,4 @@
-# Spotify 2023 Data Insights & Visualization with Power BI
+# Spotify 2023 Data Insights
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -16,12 +16,14 @@
 
 ## Project Overview
 The **Spotify 2023 Data Insights Dashboard** is a comprehensive analysis of global music streaming trends using **Power BI**. This project explores **top-streamed tracks and artists, audio feature correlations, and seasonal streaming patterns** to provide actionable insights for artists, producers, and streaming platforms.
+
 The dashboard leverages **interactive visualizations** to track how **danceability, energy, and valence impact a song’s success**, while also highlighting industry shifts in **streaming behavior** over time.
 
 ---
 
 ## Problem Statement
 In the competitive digital music industry, understanding **which factors contribute to a song's success, how artists sustain engagement, and how streaming trends evolve** is crucial for decision-making. This project seeks to answer:
+
 - What are the **most streamed songs and artists** in 2023?
 - How do **audio features** (danceability, energy, valence) correlate with track popularity?
 - Are there **seasonal trends** affecting music streaming?
