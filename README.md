@@ -58,6 +58,13 @@ In the competitive digital music industry, understanding **which factors contrib
 
 ![Power BI Dashboard](assets/images/powerbi_dashboard.gif)
 
+### **Live Interactive Dashboard**
+Explore the **Spotify 2023 Data Insights Dashboard** live on Power BI:
+
+[Live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=516278cf-e00f-4428-bd92-bc13fef239c6&autoAuth=true&ctid=254ba93e-1f6f-48f3-90e6-e2766664b477)
+
+**Note:** Due to publishing restrictions, the **album/song cover visuals are not visible** in the embedded version of the dashboard.
+
 ---
 
 ## Observations (Based on Power BI Visuals)
