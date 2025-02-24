@@ -127,7 +127,7 @@ Key conclusions include:
 ---
 
 ### **Credits**
-This project is based on the **Advanced Power BI Project • End-to-End • ChatGPT • Custom Visuals** by **Injae Park (Power BI Park)**.
+This project is based on the **End-to-End Advanced Power BI Project with Custom Visuals** by **Injae Park (Power BI Park)**.
 All credits go to him for providing the structure and insights for building this Power BI dashboard.
 I followed his instructions step by step to complete this analysis.
 
