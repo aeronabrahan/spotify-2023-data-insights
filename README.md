@@ -126,9 +126,12 @@ Key conclusions include:
 
 ---
 
-## References
-- **YouTube Tutorial**: [Spotify Data Analysis with Power BI](https://youtu.be/ZSrVOyKAC4Y?si=u7poYXFCt_uWa27t)
-- **Dataset Source**: Spotify API and streaming charts.
+### **Credits**
+This project is based on the **Advanced Power BI Project • End-to-End • ChatGPT • Custom Visuals** by **Injae Park (Power BI Park)**.
+All credits go to him for providing the structure and insights for building this Power BI dashboard.
+I followed his instructions step by step to complete this analysis.
+
+**YouTube Tutorial**: [Watch Here: Advanced Power BI Project • End-to-End • ChatGPT • Custom Visuals](https://youtu.be/ZSrVOyKAC4Y?si=u7poYXFCt_uWa27t)
 
 ---
 
