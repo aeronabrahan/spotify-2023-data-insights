@@ -1,4 +1,4 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 title: Spotify 2023 Data Insights
 description: An interactive Power BI dashboard analyzing Spotify's 2023 streaming trends, top artists, and track performances. The project explores the impact of audio features (danceability, energy, valence) on popularity and identifies key streaming patterns over time.
 show_downloads: true
